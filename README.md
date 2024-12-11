@@ -49,7 +49,7 @@
 <h4 align="center">Connect with me:</h4>
 <p align="center">
 <a href="https://twitter.com/farmaannaser" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="farmaannaser" height="25" width="25" /></a>
-<a href="https://www.linkedin.com/in/mohamed-farmaan-naser-n/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="https://www.linkedin.com/in/mohamed-farmaan-naser-n/" height="25" width="25" /></a>
+<a href="/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="https://www.linkedin.com/in/mohamed-farmaan-naser-n/" height="25" width="25" /></a>
 <a href="https://instagram.com/far_ma_an._" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="far_ma_an._" height="25" width="25" /></a>
 <a href="mailto:mohamedfarmaannaser@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="mohamedfarmaannaser@gmail.com" width="2.5%" /></a>
 
