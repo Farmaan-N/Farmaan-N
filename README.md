@@ -6,9 +6,8 @@
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/Farmaan-N?style=social)](https://github.com/Farmaan-N)
-<img src="https://komarev.com/ghpvc/?username=farmaan-n&label=Profile%20views&color=0e75b6&style=flat" alt="farmaan-n" /> 
-<a href="https://instagram.com/far_ma_an._" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=farmaan-n&label=Profile%20views&color=0e75b6&style=flat" alt="farmaan-n" /> <a href="https://instagram.com/far_ma_an._" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="mailto:mohamedfarmaannaser@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat?" /></a>
 [![Linkedin](https://img.shields.io/badge/-MohamedFarmaanNaserN-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-farmaan-naser-n/)](https://www.linkedin.com/in/mohamed-farmaan-naser-n/)
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FFarmaanNaser%3Ft%3DU5GbxWRUnydBWuECLxjbeg%26s%3D08&style=social)](https://x.com/FarmaanNaser?t=U5GbxWRUnydBWuECLxjbeg&s=08)
