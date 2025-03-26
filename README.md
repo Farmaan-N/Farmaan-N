@@ -63,7 +63,7 @@
 
 
 ### <img width="25" height="25" align="center" src="https://img.icons8.com/fluency/48/task--v1.png" alt="task--v1"/> GitHub Activity:
-[![Farmaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Farmaan-N&bg_color=000000&color=994529&line=994529&point=994529&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Farmaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Farmaan-N&bg_color=000000&color=994529&line=994529&point=994529&area=true&hide_border=true)](https://github.com/Farmaan-N/Stock_Price_Prediction)
 
 
 
