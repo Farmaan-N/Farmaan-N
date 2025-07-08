@@ -42,6 +42,14 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img height="50" width="50" src="https://img.icons8.com/ios-glyphs/50/github.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/power-bi-2021.png" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/n8n/dc2d70/dc2d70" />
+
+
+
+
+
+
 
 
 
